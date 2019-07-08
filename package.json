@@ -1,0 +1,26 @@
+{
+  "name": "script-attrubutes-inject-plugin",
+  "version": "1.0.0",
+  "description": "inject attributes for script behind html-webpack-plugin",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SkyblueWZZQ/script-attrubutes-inject-plugin.git"
+  },
+  "keywords": [
+    "script",
+    "plugin"
+  ],
+  "author": "wenjie.xu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SkyblueWZZQ/script-attrubutes-inject-plugin/issues"
+  },
+  "homepage": "https://github.com/SkyblueWZZQ/script-attrubutes-inject-plugin#readme"
+}
