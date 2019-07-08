@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SkyblueWZZQ/script-attrubutes-inject-plugin.git"
+    "url": "git+https://github.com/fiveLucky/script-attrubutes-inject-plugin.git"
   },
   "keywords": [
     "script",
@@ -20,7 +20,7 @@
   "author": "wenjie.xu",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/SkyblueWZZQ/script-attrubutes-inject-plugin/issues"
+    "url": "https://github.com/fiveLucky/script-attrubutes-inject-plugin/issues"
   },
-  "homepage": "https://github.com/SkyblueWZZQ/script-attrubutes-inject-plugin#readme"
+  "homepage": "https://github.com/fiveLucky/script-attrubutes-inject-plugin#readme"
 }
