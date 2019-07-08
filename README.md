@@ -1,6 +1,7 @@
 # script-inject-attrubutes-plugin
 inject script's attributes into script tag in html after 'html-webpack-plugin'
 
+>兼容webpack 3.0 及以上版本
 
 # How to use ?
 
